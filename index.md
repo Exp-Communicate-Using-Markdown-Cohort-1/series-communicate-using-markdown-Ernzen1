@@ -11,4 +11,4 @@ $ git init superduperrepo
 - [x] This
 - [x] Is 
 - [x] A 
-- [] List
+- [ ] List
