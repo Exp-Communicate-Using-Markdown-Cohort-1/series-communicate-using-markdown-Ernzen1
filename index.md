@@ -7,3 +7,8 @@ This is a brief message.
 ```
 $ git init superduperrepo
 ```
+
+- [x] This
+- [x] Is 
+- [x] A 
+- [] List
