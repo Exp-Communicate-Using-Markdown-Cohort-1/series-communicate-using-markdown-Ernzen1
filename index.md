@@ -3,3 +3,7 @@
 This is a brief message.
 
 ![Noir OctoCat](https://octodex.github.com/images/privateinvestocat.jpg)
+
+```
+$ git init superduperrepo
+```
